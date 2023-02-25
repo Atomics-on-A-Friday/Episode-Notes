@@ -17,7 +17,7 @@ Watch here on YouTube to catch up!
 - [Security Content MSIexec](https://research.splunk.com/stories/windows_system_binary_proxy_execution_msiexec/)
 - [ATH - Service Install](https://github.com/redcanaryco/AtomicTestHarnesses/blob/master/Windows/TestHarnesses/T1543.003_WindowsService/ServiceInstaller.ps1)
 - [ATH - MSIexec](https://github.com/redcanaryco/AtomicTestHarnesses/tree/master/Windows/TestHarnesses/T1218.007_Msiexec)
-
+- [Security Content Windows Drivers](https://research.splunk.com/stories/windows_drivers/)
 # Infrastructure needed
 
 A lab
